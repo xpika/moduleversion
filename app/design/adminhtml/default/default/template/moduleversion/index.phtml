@@ -1,0 +1,5 @@
+<?php foreach (Mage::getConfig()->getNode('modules')->children() as $moduleName => $moduleData): ?>
+ <?php echo $moduleName; ?>
+ <?php echo $moduleData->version; ?>
+ <br>
+<?php endforeach; ?>

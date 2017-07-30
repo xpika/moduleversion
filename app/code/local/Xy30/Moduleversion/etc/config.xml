@@ -1,0 +1,18 @@
+<config>
+    <admin>
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <Xy30_moduleversion after="Mage_Adminhtml">Xy30_Moduleversion</Xy30_moduleversion>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
+    <modules>
+        <Xy30_moduleversion>
+            <version>0.1.0</version>
+        </Xy30_moduleversion>
+    </modules>
+</config>

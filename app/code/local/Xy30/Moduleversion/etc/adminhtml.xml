@@ -1,0 +1,13 @@
+<config>
+    <menu>
+        <system>
+            <children>
+                <moduleversion>
+                    <title>Module Version</title>
+                    <sort_order>1</sort_order>
+                    <action>adminhtml/moduleversion/index</action>
+                </moduleversion>
+            </children>
+        </system>
+    </menu>
+</config>

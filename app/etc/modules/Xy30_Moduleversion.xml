@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Xy30_Moduleversion>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Xy30_Moduleversion>
+    </modules>
+</config>
